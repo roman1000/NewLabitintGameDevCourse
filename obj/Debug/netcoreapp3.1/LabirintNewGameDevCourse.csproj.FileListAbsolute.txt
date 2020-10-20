@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.exe
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.deps.json
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.runtimeconfig.json
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.dll
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\bin\Debug\netcoreapp3.1\LabirintNewGameDevCourse.pdb
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.AssemblyInfo.cs
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.dll
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.pdb
+C:\Users\Roman\source\repos\LabirintNewGameDevCourse\LabirintNewGameDevCourse\obj\Debug\netcoreapp3.1\LabirintNewGameDevCourse.genruntimeconfig.cache
